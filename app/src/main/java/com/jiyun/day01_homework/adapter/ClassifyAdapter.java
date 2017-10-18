@@ -32,5 +32,6 @@ public class ClassifyAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         return list.get(position);
+        //啊啊啊啊啊啊
     }
 }
